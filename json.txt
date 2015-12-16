@@ -1,2 +1,2 @@
-pName=ZeybekBot v3
+pName=TroopName
 text=Barbarian
